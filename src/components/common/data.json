@@ -1,0 +1,92 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "location": "New York",
+            "type": "Apartment",
+            "price": 2000,
+            "description": "A spacious 2-bedroom apartment in the heart of New York City.",
+            "image": "https://www.example.com/images/apartment1.jpg"
+        },
+        {
+            "id": 2,
+            "location": "San Francisco",
+            "type": "House",
+            "price": 3500,
+            "description": "A beautiful 3-bedroom house with a view of the Golden Gate Bridge.",
+            "image": "https://www.example.com/images/house1.jpg"
+        },
+        {
+            "id": 3,
+            "location": "Los Angeles",
+            "type": "Condo",
+            "price": 2500,
+            "description": "A modern 1-bedroom condo in downtown LA.",
+            "image": "https://www.example.com/images/condo1.jpg"
+        },
+        {
+            "id": 4,
+            "location": "Boston",
+            "type": "Apartment",
+            "price": 1800,
+            "description": "A cozy 1-bedroom apartment in historic Beacon Hill.",
+            "image": "https://www.example.com/images/apartment2.jpg"
+        },
+        {
+            "id": 5,
+            "location": "Chicago",
+            "type": "House",
+            "price": 3000,
+            "description": "A charming 2-bedroom house in the trendy Wicker Park neighborhood.",
+            "image": "https://www.example.com/images/house2.jpg"
+        },
+        {
+            "id": 6,
+            "location": "Seattle",
+            "type": "Condo",
+            "price": 2200,
+            "description": "A brand new 1-bedroom condo with stunning views of the Space Needle.",
+            "image": "https://www.example.com/images/condo2.jpg"
+        },
+        {
+            "id": 7,
+            "location": "Miami",
+            "type": "Apartment",
+            "price": 2700,
+            "description": "A luxurious 2-bedroom apartment with access to a private beach.",
+            "image": "https://www.example.com/images/apartment3.jpg"
+        },
+        {
+            "id": 8,
+            "location": "Denver",
+            "type": "House",
+            "price": 2800,
+            "description": "A spacious 3-bedroom house with a large backyard and mountain views.",
+            "image": "https://www.example.com/images/house3.jpg"
+        },
+        {
+            "id": 9,
+            "location": "Portland",
+            "type": "Apartment",
+            "price": 1900,
+            "description": "A modern 1-bedroom apartment in the trendy Pearl District.",
+            "image": "https://www.example.com/images/apartment4.jpg"
+        },
+        {
+            "id": 10,
+            "location": "Atlanta",
+            "type": "House",
+            "price": 3200,
+            "description": "A beautiful 4-bedroom house in a quiet residential neighborhood.",
+            "image": "https://www.example.com/images/house4.jpg"
+        },
+        {
+            "id": 11,
+            "location": "Dallas",
+            "type": "Condo",
+            "price": 2300,
+            "description": "A stylish 2-bedroom condo in the heart of downtown Dallas.",
+            "image": "https://www.example.com/images"
+        }
+    ]
+}
